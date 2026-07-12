@@ -50,8 +50,6 @@ The dataset contains customer transactions from an online retail store, includin
 Created new columns including:
 
 * Revenue
-* Profit Percentage (if applicable)
-* Discount Category (if applicable)
 * Order Month
 * Month Number
 * Order Day
@@ -116,6 +114,18 @@ Created visualizations using Matplotlib:
 * Revenue Distribution Histogram
 
 ---
+
+## Business Questions Answered
+
+- What is the total revenue?
+- Who are the top 10 customers?
+- Which products generated the highest revenue?
+- Which country generated the most revenue?
+- What is the average order value?
+- Which invoices generated the highest revenue?
+- Which month generated the highest sales?
+- What are the peak shopping hours?
+- How many repeat customers are there?
 
 ## 📊 Key Insights
 
