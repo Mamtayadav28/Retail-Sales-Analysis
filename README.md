@@ -158,6 +158,27 @@ Retail-Sales-Analysis/
 
 ---
 
+## 📈 Project Visualizations
+
+### Top 10 Products by Revenue
+
+![Top Products](images/top_products_revenue.png)
+
+### Revenue by Country
+
+![Revenue by Country](images/revenue_by_country.png)
+
+### Monthly Revenue
+
+![Monthly Revenue](images/monthly_revenue.png)
+
+### Revenue Distribution
+
+![Revenue Distribution](images/revenue_distribution.png)
+
+
+
+
 ## 👩‍💻 Author
 
 **Mamta Yadav**
